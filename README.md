@@ -8,3 +8,6 @@
 <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 ## Referências
+
+### Lab 105_DesenvolvendoPortScannerPython Bruno Dias
+Fonte: https://pythonawesome.com/developing-a-port-scanner-in-python/
