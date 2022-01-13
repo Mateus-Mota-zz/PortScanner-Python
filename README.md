@@ -4,16 +4,26 @@ Port Scanner é uma ferramenta que exibe quais portas em uma rede estão abertas
 
 A realização desse projeto foi realizado durante do curso DesenvolvendoPortScannerPython de Bruno Dias.
 
-## Escopo
+</br>
+</br>
+
+## Funcionalidades
 
 * Verificar se o status está aberto ou fechado das portas tcp/udp de domínios alcançáveis na internet, sendo buscaveís pelo dominios e pelo ip.
 * Encontrar quais serviços estão utilizando as portas em sistemas Linux e Windows.
 
+</br>
+</br>
 
 ## Tecnologias
 <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
+</br>
+</br>
+
 ## Referências
+
+</br>
 
 ### Lab 105_DesenvolvendoPortScannerPython Bruno Dias
 Fonte: https://pythonawesome.com/developing-a-port-scanner-in-python/
