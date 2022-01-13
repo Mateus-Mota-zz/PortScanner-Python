@@ -1,3 +1,9 @@
+# Port Scanner
+
+Port Scanner é uma ferramenta que exibe quais portas em uma rede estão abertas para comunicação. Se uma porta está aberta ou não pode ajudar na configuração de câmeras de segurança IP, determinando se uma rede está segura, bem como outras operações relacionadas à rede.
+
+A realização desse projeto foi realizado durante do curso DesenvolvendoPortScannerPython de Bruno Dias.
+
 ## Escopo
 
 * Verificar se o status está aberto ou fechado das portas tcp/udp de domínios alcançáveis na internet, sendo buscaveís pelo dominios e pelo ip.
