@@ -23,7 +23,5 @@ A realização desse projeto foi realizado durante do curso DesenvolvendoPortSca
 
 ## Referências
 
-</br>
-
 ### Lab 105_DesenvolvendoPortScannerPython Bruno Dias
 Fonte: https://pythonawesome.com/developing-a-port-scanner-in-python/
