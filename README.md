@@ -27,3 +27,7 @@ A realização desse projeto foi realizado durante do curso DesenvolvendoPortSca
 
 ### Lab 105_DesenvolvendoPortScannerPython Bruno Dias
 Fonte: https://pythonawesome.com/developing-a-port-scanner-in-python/
+
+## Documentação sobre a utilização do nmap com Python
+FONTE: https://pypi.org/project/python3-nmap/
+FONTE: https://pypi.org/project/python-nmap/
