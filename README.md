@@ -11,6 +11,8 @@ A realização desse projeto foi realizado durante do curso DesenvolvendoPortSca
 
 * Verificar se o status está aberto ou fechado das portas tcp/udp de domínios alcançáveis na internet, sendo buscaveís pelo dominios e pelo ip.
 * Encontrar quais serviços estão utilizando as portas em sistemas Linux e Windows.
+* Varrer as portas via TCP Handshake.
+* Varrer as portas utilizando TCP SYN (Stealth)
 
 </br>
 </br>
